@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Joshi</h1>
+<h1 align="center">Hi there 👋, I'm Shreya Joshi</h1>
 <h3 align="center">A Computer Science Student from PES University</h3>
 
 - 🌱 I’m interested in **Data Structures & Algorithms and Machine Learning**
