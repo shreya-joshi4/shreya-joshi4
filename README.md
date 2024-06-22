@@ -1,9 +1,9 @@
-<h1 align="center">Hi there <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" alt="Hi" width="30" height="30">! I'm Shreya</h1>
-<h3 align="center">A Computer Science Student from PES University</h3>
+<p align="center">Hi there <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" alt="Hi" width="10" height="10">! I'm Shreya</p>
+<p align="center">- 🌱A Computer Science Student from PES University</p>
 
 <!-- - 🌱 I’m interested in **Data Structures & Algorithms and Machine Learning** -->
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">Languages and Tools:</p>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
